@@ -1,0 +1,11 @@
+A blood glucose test measures the amount of a type of sugar, called glucose, in your blood. Glucose comes from carbohydrate foods. It is the main source of energy used by the body. Insulin is a hormone that helps your body's cells use the glucose. Insulin is produced in the pancreas and released into the blood when the amount of glucose in the blood rises.
+
+Normally, your blood glucose levels increase slightly after you eat. This increase causes your pancreas to release insulin so that your blood glucose levels do not get too high. Blood glucose levels that remain high over time can damage your eyes, kidneys, nerves, and blood vessels.
+
+There are several different types of blood glucose tests.
+
+Fasting blood sugar (FBS) measures blood glucose after you have not eaten for at least 8 hours. It is often the first test done to check for prediabetes and diabetes.
+2-hour postprandial blood sugar measures blood glucose exactly 2 hours after you start eating a meal. This is not a test used to diagnose diabetes. This test is used to see if someone with diabetes is taking the right amount of insulin with meals.
+Random blood sugar (RBS) measures blood glucose regardless of when you last ate. Several random measurements may be taken throughout the day. Random testing is useful because glucose levels in healthy people do not vary widely throughout the day. Blood glucose levels that vary widely may mean a problem. This test is also called a casual blood glucose test.
+Oral glucose tolerance test is used to diagnose prediabetes and diabetes. An oral glucose tolerance test is a series of blood glucose measurements taken after you drink a sweet liquid that contains glucose. This test is commonly used to diagnose diabetes that occurs during pregnancy (gestational diabetes). Women who had high blood sugar levels during pregnancy may have oral glucose tolerance tests after pregnancy.
+Hemoglobin A1c, or glycohemoglobin, measures how much sugar (glucose) is stuck to red blood cells. This test can be used to diagnose diabetes. It also shows how well your diabetes has been controlled in the past 2 to 3 months and whether your diabetes medicine needs to be changed. The result of your A1c test can be used to estimate your average blood sugar level. This is called your estimated average glucose, or eAG.
